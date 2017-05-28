@@ -1,5 +1,8 @@
 # Blockly for Node.js and Browser via CommonJS module
 
+JCOA: Modified to link my blockly version
+https://stackoverflow.com/questions/913701/changing-remote-repository-for-a-git-submodule
+
 ![Build](https://travis-ci.org/mo4islona/node-blockly.svg?branch=master)
 
 
